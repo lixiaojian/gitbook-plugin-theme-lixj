@@ -274,6 +274,7 @@ body {
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+    font-size: 1.5rem;
 }
 .page-link-nav-box .page-link-nav i{
     padding: 0 10px;
